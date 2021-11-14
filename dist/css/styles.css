@@ -1,3 +1,11 @@
-h1{
+body{
     font-family: sans-serif;
+    background-color: #e5f1e3;
+    color: #35635b;
+}
+
+
+h1{
+    
+    font-size: 50px;
 }
